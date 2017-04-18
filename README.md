@@ -19,10 +19,6 @@ The main goal of the application is to detect the face of the khulna university'
 For to detect the Face of the student we use the emgu cv or the open Cv libary to process and to identify the face of the student properly
 
 
-![open](https://cloud.githubusercontent.com/assets/11449967/25117456/0f5d5840-2434-11e7-878a-49faca102706.png)
-
-
-                                                 Pic: OPEN CV (for face detection)
 
 
 1.First figure of the application Nedd to press "NEW"  button to start the application
