@@ -67,6 +67,8 @@ For to detect the Face of the student we use the emgu cv or the open Cv libary t
 
 7.To train the mechine give a name and roll and then press the "Train" Button"
 
+![ca](https://cloud.githubusercontent.com/assets/11449967/25118937/0cf2307a-243a-11e7-802b-6002ee741511.PNG)
+
 ![07](https://cloud.githubusercontent.com/assets/11449967/25116990/c86ad3f6-2431-11e7-9f51-8b11c864b821.PNG)
 
 
