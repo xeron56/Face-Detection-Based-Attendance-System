@@ -76,7 +76,7 @@ For to detect the Face of the student we use the emgu cv or the open Cv libary t
 
 8.All attendance data
 
-![08](https://cloud.githubusercontent.com/assets/11449967/25116991/c86bf7c2-2431-11e7-867a-1e783e90971a.PNG)
+
 
 
 
