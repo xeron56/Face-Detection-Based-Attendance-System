@@ -84,6 +84,8 @@ For to detect the Face of the student we use the emgu cv or the open Cv libary t
 
 ![09](https://cloud.githubusercontent.com/assets/11449967/25116982/c82e7488-2431-11e7-920a-898b60afb6df.PNG)
 
+![capture](https://cloud.githubusercontent.com/assets/11449967/25575432/38467c9c-2e79-11e7-8a20-dd6ff1abb017.JPG)
+
 
 
 
