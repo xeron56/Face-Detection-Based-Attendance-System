@@ -1,9 +1,9 @@
 # Face-Detection-Based-Attendance-System-
 
 
-Face detection based Attendance system is windows form application which is writte on the c# programming language and the ide is visua studio
+Face detection based Attendance system is windows form application which is written in the c# programming language and the ide is visual studio
 
-The main goal of the application is to detect the face of the khulna university's computer science and engineering  students and to take the daily attendance data on the digital system that is  to recognize the face of the student and to take the attendance and save it as as a digital data formate 
+The main goal of the application is to detect the face of the Khulna university's computer science and engineering students and to take the daily attendance data on the digital system that is to recognize the face of the student and to take the attendance and save it as-as a digital data formate
 
 
 
